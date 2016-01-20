@@ -2,6 +2,7 @@
 function [mean_RTplus, mean_RTminus, var_RTplus,var_RTminus, t_RTplus,...
     t_RTminus, CVplus, CVminus, skewplus, skewminus]= extended_ddm_metrics_cond(a_mean, sigma_a, s, x0_mean, delta, z)
 
+% Copyright 2016, Vaibhav Srivastava
 
 % Input: 
 % a_mean =mean drift rate, sigma_a = variance in drift rate,

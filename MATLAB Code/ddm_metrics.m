@@ -1,5 +1,6 @@
 function [err,m_RT, v_RT, t_RT] =ddm_metrics(a,s,z,x0)
 
+% Copyright 2016, Vaibhav Srivastava
 
 % This function computes unconditional decision time moments for the DDM
 

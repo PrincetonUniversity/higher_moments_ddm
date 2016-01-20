@@ -1,6 +1,8 @@
 
 function [error, mean_RT, var_RT, t_RT, CV, skew]= extended_ddm_metrics(a_mean, sigma_a, s, x0_mean, delta, z)
 
+% Copyright 2016, Vaibhav Srivastava
+
 % Input: 
 % a_mean =mean drift rate, sigma_a = variance in drift rate,
 % s=diffusion rate,

@@ -1,5 +1,6 @@
 function [m_RTplus, m_RTminus, v_RTplus, v_RTminus, t_RTplus, t_RTminus] =ddm_metrics_cond(a,s,z,x0)
 
+% Copyright 2016, Vaibhav Srivastava
 
 % This function computes conditional decision time moments for the DDM
 
