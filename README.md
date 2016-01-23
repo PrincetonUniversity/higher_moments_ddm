@@ -3,7 +3,7 @@ This repository contains MatLab and R code for the numerical computation of erro
 diffusion model for two alternative forced choice tasks. 
 
 These codes accompany the paper: 
-V. Srivastava, P. Holmes and P. Simen. Explicit moments of decision times for single- and double-threshold drift-diffusion processes. Journal of Mathematical Neuroscience. conditionally accepted. 
+V. Srivastava, P. Holmes and P. Simen. Explicit moments of decision times for single- and double-threshold drift-diffusion processes. Journal of Mathematical Psychology. conditionally accepted. 
 
 
 
